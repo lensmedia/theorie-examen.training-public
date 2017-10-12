@@ -1,2 +1,3 @@
-# docs.theorie-examen.training
 Theorie Examen Training
+
+Public repository used for wiki and issue tracking.
